@@ -8,7 +8,6 @@ const styles = StyleSheet.create({
         backgroundColor: '#13262F',
     },
     subContainer: {
-        // flexDirection: 'row',
         justifyContent: 'center',
         padding: 16,
     },
